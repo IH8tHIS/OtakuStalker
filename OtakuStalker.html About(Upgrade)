@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="OtakuStalker.css">
+    <link href="https://fonts.googleapis.com/css?family=Kirang+Haerang" rel="stylesheet">
+
+<h1> Otaku <span style="color:red"></span>Stalker</h1>
+<nav>
+    <i class ="fa fa-bars menu" aria-hidden="true"></i>
+
+<div id="over"><img id="main"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbyS90IqI0wgoF5EJ-wMFU3q82H0Rgw6l82-oqCybjfVh9VagACQ"></div>
+
+<style>
+table, th, td {
+  border: 1px solid red;
+  border-collaspe: collaspe;
+  color: black;
+  /* position:absolute; */
+  /* top: 50%;
+  left: 10px; */
+  /* width: 300px; */
+}
+table{
+  position: absolute;
+  top:19%;
+  max-width: 500px;
+  max-height: 500px;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+table{
+    width: 100%;
+    background-color: lightgrey;
+    background-blend-mode: lighten;
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <ul>
+    <button type="button" onclick="document.Search Url">Search Url </button>
+    <button type="button" onclick="document.Search #">Search # </button>
+    <button type="button" onclick="document.About">About </button>
+    <button type="button" onclick="document.Anime">Anime </button>
+  </ul>
+
+</nav>
+
+<div id="sad">
+<div id="hmmm">
+  <table style="width:100%">
+  <tr>
+    <th>Name: Shirley</th>
+  </tr>
+  <tr>
+  <td>My name Shirley Torbio! I helped with the development of thwe websites style and the layout in addition to its funtionality! In my free time I remain dedicated to issues concerning low income minorities.
+      Fun Facts: I have a dog :)</td>
+  </tr>
+  <tr>
+    <!-- <th rowspan="0"></th> -->
+    <!-- <td>donut</td> -->
+  </tr>
+  <!-- <td>cupcake</td> -->
+  </tr>
+  </table>
+<div id="Katara"><img id="main"src="https://img00.deviantart.net/5370/i/2012/127/6/b/avatar_the_last_airbender___katara_by_strandedtal-d4yuukc.png"></div>
+</div>
+<div id="hmmm">
+
+
+<div>
+  <table style="position:absolute; top: 37%; left: 30%;" width="500">
+  <tr>
+    <th>Name: Francesca</th>
+    <!-- <td>Shirley</td> -->
+  </tr>
+  <tr>
+    <!-- <th rowspan="0">Telephone:</th> -->
+    <td> Francesca Foglino. The stalker behind OtakuStalker.
+         Likes: cats, baking, Python, chocolate, dark humor, dank memes, and the Oxford comma.
+         Dislikes: herself, writing, <a href="https://scratch.mit.edu/">Scratch</a>, parsnips, bigotry, and poor copy-editing.
+         I wrote the Python code for the back end of the site.
+         Fun Facts: My hobbies include bouldering and violin. I have been learning Mandarin for 10 years, but am still at the level of an intelligent Chinese parrot.</td>
+</tr>
+  <!-- <td>cupcake</td> -->
+  </tr>
+  </table>
+
+</div>
+<div id="Pidge"><img id="main"src="https://vignette.wikia.nocookie.net/voltron/images/e/ed/Pidge_in_Castle_Ship.png/revision/latest?cb=20160623181803"></div>
+</div>
+
+
+<div id="Kaneki"><img id="main"src="https://images.8tracks.com/cover/i/008/473/849/tumblr_nff2356egc1tdlfpqo3_r2_500-9650.png?rect=0,0,500,500&q=98&fm=jpg&fit=max&w=320&h=320"></div>
+<div>
+<table style="position:absolute; top: 58.2%; left: 30%;" width="500">
+<tr>
+  <th>Name: Camryn</th>
+</tr>
+<tr>
+  <td> Hello there, I'm the Otaku behind OtakuStalker. I worked on the about page and Anime page.
+       Likes: Anime, Histoy, Kpop, Jpop(EXILE,E-GIRLS,LDH), Webtoons, Drawing, Tv, Coding(HTML,JAVA SCRIPT,CSS).
+       Disklikes: Candy(sweets in general), PYTHON, json, people who walk slow.
+       Fun Fact: I fence, I was on a wrestling team, I speak 50% Italian and read 60%, I speak 2% Korean read 0%, speak Japanese 5% and read 0%.</td>
+</tr>
+<tr>
+  <!-- <th rowspan="0">Telephone:</th> -->
+  <!-- <td>donut</td> -->
+</tr>
+<!-- <td>cupcake</td> -->
+</tr>
+</table>
+</div>
+<div id="Kaneki"><img id="main"src="https://images.8tracks.com/cover/i/008/473/849/tumblr_nff2356egc1tdlfpqo3_r2_500-9650.png?rect=0,0,500,500&q=98&fm=jpg&fit=max&w=320&h=320"></div>
+</div>
+
+
+
+
+
+
+<p style="color:White;"> &copy;Copyright by SATAN <p>
+  </body>
+</html>
